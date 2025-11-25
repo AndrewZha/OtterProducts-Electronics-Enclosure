@@ -19,14 +19,19 @@
     - 🔹Double O-ring sealed waterproofing
     - 🔹Thread lock into place with snap lock
     - 🔹Ziptie, screw, and magnetic mounting accessible
+    ![Orthographic View](images/techdev9.jpg)
+    ![Top-Down View](images/techdev8.jpg)
   - 🔹Rectangular Design
     - 🔹Robust, Rugged "OtterBox" form factor
     - 🔹No threads, lid snaps into place; locked in with small screws
     - 🔹Single O-ring sealed waterproofing
     - 🔹Ziptie, screw, and magnetic mounting accessible
       - 🔹Ziptie slots are fully integrated into the lid, with internal curvature ensuring ziptie alignment during installment
- 
-
+    ![Orthographic View](images/techdev5.jpg)
+    ![Top-Down View](images/techdev7.jpg)
+  - 🔹Application Points
+    ![Application Points](images/techdev4.jpg)
+    
 ---
 
 ## 🛠️ Technical Details
